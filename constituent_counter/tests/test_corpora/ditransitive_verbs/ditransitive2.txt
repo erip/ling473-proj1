@@ -1,0 +1,17 @@
+(S
+    (NP (PRP She))
+    (VP baked
+        (NP (PRP him))
+        (NP
+            (DT a)
+            (NN cake)
+        )
+    )
+    (VP test
+        (VP test
+            (NP hello)
+            (NP world)
+         )
+
+    )
+)

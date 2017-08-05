@@ -1,0 +1,3 @@
+(S (NP (PRP I) ) (VP (VB run) ) )
+(S (NP (NNP Kim)) (VP (VBZ sleeps)))
+(S (NP (PRP I)) (VP (VBD  saw) (SBAR (NP (DT that) (NP (NN  gas) (NN  can))) (VP (VB explode)))))
